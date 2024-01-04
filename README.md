@@ -1,7 +1,6 @@
-# Ex-06-Book-Cover-Design
+# Ex-08-Book-Cover-Design
 NAME: SAI VISHAL D<BR>
-REF.NO: 23013576
-
+REG.NO: 212223230180
 ## AIM:
 To design a book cover page using HTML and CSS.
 
